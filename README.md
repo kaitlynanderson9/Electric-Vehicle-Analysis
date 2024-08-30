@@ -1,2 +1,2 @@
 # Electric-Vehicle-Analysis
-Contained is RMD file for electic vehicle data analysis project
+Contained is the RMD file for electic vehicle data analysis project
